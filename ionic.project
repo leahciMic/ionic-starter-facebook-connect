@@ -1,0 +1,12 @@
+{
+  "name": "Friends",
+  "app_id": "83979908",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
